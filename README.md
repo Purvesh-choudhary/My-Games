@@ -8,3 +8,6 @@ https://github.com/Purvesh-choudhary/ShadyApartment
 
 Brick Breaker (Classic Game)
 https://github.com/Purvesh-choudhary/BrickBreaker-Classic-Game-
+
+Motu Patlu (FanMade Game)
+https://github.com/Purvesh-choudhary/Motu-Patlu-Game
